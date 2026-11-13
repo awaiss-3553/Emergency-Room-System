@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1794589109 source:c:\users\user\downloads\emergency-room-system\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<queue>
+	<stack>
+
